@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProofOfConcept</string>
+    <string name="jsonUrl">https://dl.dropboxusercontent.com/s/2iodh4vg0eortkl/facts.json</string>
+    <string name="jsonTitleKey">title</string>
+    <string name="jsonRowKey">rows</string>
+    <string name="jsonRowDescKey">description</string>
+    <string name="jsonRowImageKey">imageHref</string>
+    <string name="downLoadSuccess">Image Download Success</string>
+    <string name="downLoadFailure">Image Download Fail</string>
+</resources>
